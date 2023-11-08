@@ -1,6 +1,6 @@
 # YREMS
 
-Yonsei RC Event Management System
+Student Event Participation Management System
 
 * Event RSVP: Manage signup requests, cancellation, and waiting lists
 * Attendance checking on-site with custom settings per-event
